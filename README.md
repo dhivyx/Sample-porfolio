@@ -14,4 +14,4 @@ A clean and minimal portfolio website built using only **HTML** and **CSS**. Thi
 
 ## 📁 Project Structure
 
-Feel free to visit website using
+Feel free to visit website using https://dhivyx.github.io/Sample-porfolio/
